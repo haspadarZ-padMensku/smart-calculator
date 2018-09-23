@@ -1,6 +1,6 @@
 class SmartCalculator {
   constructor(initialValue) {
-    // your implementationthis.initialValue = initialValue;
+    // your implementation
     this.initialValue = initialValue;
   }
 
